@@ -5,3 +5,4 @@
 # files:
 # allusers.csv - a comma separated value representation of all users, including their first name, last name, street (made up of number and name), city, state, country, and email
 # country-counts.csv - a comma separated value file with two columns: country, count with a sumary of how many users are in the dataset for each country
+# Please start writing code from here
